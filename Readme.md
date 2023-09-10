@@ -2,6 +2,11 @@
 
 This application provides a simple web interface to convert numeric values into their word representation, specifically formatted for currency (dollars and cents).
 
+you can run the current published version
+```
+docker run -p 8080:8080 lucenera75/number-converter-rdf
+```
+
 ## Features
 
 - **Web Interface**: Users can input their name and a numeric value.
