@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "N2wApp",
+            "request": "launch",
+            "mainClass": "co.nz.rdf.n2w.N2wApp",
+            "projectName": "n2w"
+        }
+    ]
+}
