@@ -30,7 +30,7 @@ ONE HUNDRED AND TWENTY THREE DOLLARS AND FORTY FIVE CENTS
 
 ### Running Locally
 
-1. Ensure you have Java 20 and Maven installed.
+1. Ensure you have Java 17 and Maven installed.
 2. mvn clean package
 3. Open a browser and visit `http://localhost:8080`
 
