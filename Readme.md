@@ -37,7 +37,8 @@ ONE HUNDRED AND TWENTY THREE DOLLARS AND FORTY FIVE CENTS
 
 1. Ensure you have Java 17 and Maven installed.
 2. mvn clean package
-3. Open a browser and visit `http://localhost:8080`
+3. mvn spring-boot:run  
+4. Open a browser and visit `http://localhost:8080`
 
 ### Running with Docker
 1. Build the Docker image: 
